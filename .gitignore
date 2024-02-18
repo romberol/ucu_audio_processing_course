@@ -4,3 +4,4 @@
 
 data/*
 !data/interesting_audio_samples
+.idea
