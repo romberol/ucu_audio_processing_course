@@ -3,9 +3,11 @@
 *__pycache__*
 
 data/*
+dataset/
 !data/interesting_audio_samples
 .idea
 Module_2/Lecture_1/logdirs
 Module_2/Lecture_3/AMI-diarization-setup
 AMI-diarization-setup
 *.json
+*.pth
